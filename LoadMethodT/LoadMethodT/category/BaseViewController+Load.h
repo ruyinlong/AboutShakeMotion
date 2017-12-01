@@ -1,0 +1,13 @@
+//
+//  BaseViewController+Load.h
+//  LoadMethodT
+//
+//  Created by Li Yang on 2017/11/26.
+//  Copyright © 2017年 Li Yang. All rights reserved.
+//
+
+#import "BaseViewController.h"
+
+@interface BaseViewController (Load)
+
+@end

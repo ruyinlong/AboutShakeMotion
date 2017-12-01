@@ -1,0 +1,19 @@
+//
+//  UIViewController+Motion.h
+//  ShakeT
+//
+//  Created by Li Yang on 2017/11/23.
+//  Copyright © 2017年 Li Yang. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface UIViewController (Motion)
+
+// @override
+- (BOOL)canBecomeFirstResponder;
+- (void)motionBegan:(UIEventSubtype)motion withEvent:(UIEvent *)event;
+- (void)motionEnded:(UIEventSubtype)motion withEvent:(UIEvent *)event;
+- (void)motionCancelled:(UIEventSubtype)motion withEvent:(UIEvent *)event;
+
+@end

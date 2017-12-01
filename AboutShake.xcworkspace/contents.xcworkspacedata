@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ShakeMotion/ShakeMotion.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TipForWorkSpace.rtf">
+   </FileRef>
+   <FileRef
+      location = "group:ShakeTestThird/ShakeTestThird.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ShakeTestSecond/ShakeTestSecond.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ShakeTestFirst/ShakeTestFirst.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LoadMethodT/LoadMethodT.xcodeproj">
+   </FileRef>
+</Workspace>
